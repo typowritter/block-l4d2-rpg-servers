@@ -41,7 +41,7 @@
    sudo iptables -I OUTPUT -p UDP -m set --match-set l4d2-rpg-blacklist dst -j DROP
    ```
 
-OK，现在列表中的RPG服就被全部屏蔽了，你将不会在游戏中任何地方看到他们。
+OK，现在列表中的RPG服就被全部屏蔽了，你将不会在游戏中任何地方看到它们。
 
 如果要手动加入你自己的IP，直接`sudo ipset add l4d2-rpg-blacklist xx.xx.xx.xx`
 
