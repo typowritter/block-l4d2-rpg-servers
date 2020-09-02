@@ -137,6 +137,13 @@
             "memo":"弑神之巅20200902"
         },
         {
+            "id":82,
+            "raddr":"124.70.200.66",
+            "tmp_field_sel":true,
+            "memo":"kkjoc 20200902",
+            "domain":"r.kkjoc.vip"
+        },
+        {
             "id":45,
             "raddr":"58.218.211.76",
             "tmp_field_sel":true,
