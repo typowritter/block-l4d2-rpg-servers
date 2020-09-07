@@ -144,6 +144,12 @@
             "domain":"r.kkjoc.vip"
         },
         {
+            "id":83,
+            "raddr":"103.40.13.180",
+            "tmp_field_sel":true,
+            "memo":"<名称未知>20200907"
+        },
+        {
             "id":45,
             "raddr":"58.218.211.76",
             "tmp_field_sel":true,
